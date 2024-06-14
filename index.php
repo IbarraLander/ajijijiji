@@ -39,6 +39,7 @@
                         </div>
                     <div class = "buttonContainer">
                         <button type="submit" id="login"> Login </button>
+                        <button> FILL UP FORM </button>
                     </div>        
                 </div>    
             </form>   
